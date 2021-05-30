@@ -93,8 +93,8 @@ a {
 }
 
 .active {
-  text-decoration:underline;
-  text-decoration-color: rgb(33, 86, 171, 0.8)
+  text-decoration: underline;
+  text-decoration-color: rgb(33, 86, 171, 0.8);
 }
 
 footer{
