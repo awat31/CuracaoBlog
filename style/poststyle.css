@@ -108,6 +108,22 @@ footer{
   font-size: 14px;
 }
 
+.content {
+  width: 50%;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.details {
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}
+
 #For form
 
 /* Style inputs with type="text", select elements and textareas */
