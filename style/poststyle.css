@@ -10,6 +10,15 @@ body{
   font-family: 'Dosis', sans-serif;
 }
 
+caption{
+  font-style: italic;
+}
+
+.caption{
+  font-style: italic;
+  font-size: 14px;
+}
+
 h2{
   font-size: 30px;
 }
