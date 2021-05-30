@@ -3,6 +3,7 @@ body{
   margin: 0;
   outline: 0;
   padding: 0;
+  padding-bottom: 50px;
   display: block;
   background-color: rgb(255,253,255);
   color:#296cd6;
@@ -20,6 +21,11 @@ h3{
 .centre{
   text-align: center;
   justify-content: center;
+}
+
+.photo{
+  justify-content: center;
+  height: 500px;
 }
 .head{
   padding: 1.5rem 0;
